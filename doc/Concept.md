@@ -36,7 +36,7 @@ Here are the advantages and disadvantages of each tool:
 
 ## Demo
 
-![Image](data/demo.gif)
+![Image](../data/demo.gif)
 
 For the purpose of this demo, we recommend using k3d as it offers additional features and automation capabilities. Here's an example of deploying the Hello World application on Kubernetes using k3d:
 
